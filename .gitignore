@@ -1,0 +1,7 @@
+*.dt
+*.epf.bin
+*.erf.bin
+1Cv8Log/
+*.cf
+secrets*
+.env
